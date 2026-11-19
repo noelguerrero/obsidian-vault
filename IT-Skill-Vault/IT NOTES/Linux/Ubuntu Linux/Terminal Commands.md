@@ -1,0 +1,2 @@
+
+`ls` - to show directory

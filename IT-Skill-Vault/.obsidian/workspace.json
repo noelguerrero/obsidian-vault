@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "13416d3167c2d13a",
+    "type": "split",
+    "children": [
+      {
+        "id": "2367dfb54b732bb3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e0d411e68b492d4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "50d19bb24a8c35bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Testing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Testing"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "144cdb65c0d211cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "3212954cffdf87f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d622f5d1c7efcae8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b20aee81441e17aa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "70283157a3515ee7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "babc8d1b83e605c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "37c85c705f0f60c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dbf600f2abf650a5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "NETWORKING/CCNA  200-301 by David Bombal/Network Basics/2. What are Switch, Router and What are these things can do/ep2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for ep2"
+            }
+          },
+          {
+            "id": "815b309475f802fb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "NETWORKING/CCNA  200-301 by David Bombal/Network Basics/2. What are Switch, Router and What are these things can do/ep2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from ep2"
+            }
+          },
+          {
+            "id": "2b188d7888dba493",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a5c1958c786f8fb9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "NETWORKING/CCNA  200-301 by David Bombal/Network Basics/2. What are Switch, Router and What are these things can do/ep2.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of ep2"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "50d19bb24a8c35bf",
+  "lastOpenFiles": [
+    "Testing.md",
+    "Pasted image 20261113155716.png",
+    "IT NOTES/Linux/Ubuntu Linux/Terminal Commands.md",
+    "COURSES/IT TECHNICIAN/CISCO OS BASICS/M2 Linux Overview/2.1 Linux Basics.md",
+    "COURSES/IT TECHNICIAN/CISCO OS BASICS/M2 Linux Overview/2.2 Working in the Linux Shell.md",
+    "COURSES/IT TECHNICIAN/CISCO OS BASICS/M2 Linux Overview/M2 img",
+    "Pasted image 20261112114558.png",
+    "Pasted image 20261112111000.png",
+    "COURSES/IT TECHNICIAN/CISCO OS BASICS/M1 Windows Operating System/1.4 Windows Security.md",
+    "IT NOTES/Linux/Ubuntu Linux",
+    "IT NOTES/Linux",
+    "COURSES/IT TECHNICIAN/CISCO OS BASICS/M2 Linux Overview",
+    "COURSES/IT TECHNICIAN/CISCO OS BASICS/M1 Windows Operating System/m1 img/Pasted image 20261030211845.png",
+    "COURSES/IT TECHNICIAN/CISCO OS BASICS/M1 Windows Operating System/m1 img/Pasted image 20261030203557.png",
+    "COURSES/IT TECHNICIAN/CISCO OS BASICS/M1 Windows Operating System/m1 img/Pasted image 20261030200758.png",
+    "COURSES/IT TECHNICIAN/CISCO OS BASICS/M1 Windows Operating System/m1 img/Pasted image 20261030200300.png",
+    "COURSES/IT TECHNICIAN/CISCO OS BASICS/M1 Windows Operating System/Pasted image 20261030211845.png",
+    "COURSES/IT TECHNICIAN/CISCO OS BASICS/M1 Windows Operating System/Pasted image 20261030203557.png",
+    "COURSES/IT TECHNICIAN/CISCO OS BASICS/M1 Windows Operating System/Pasted image 20261030200758.png",
+    "COURSES/IT TECHNICIAN/CISCO OS BASICS/M1 Windows Operating System/1.3 Windows Configuration and Monitoring.md",
+    "IT NOTES/Windows/File System Commands.md",
+    "IT NOTES/Windows/Windows File Folder Notes.md",
+    "IT NOTES/Windows/Net Commands.md",
+    "COURSES/IT TECHNICIAN/CISCO OS BASICS/M1 Windows Operating System/1.2 Windows Architecture and Operations.md",
+    "COURSES/CYBERSECURITY/THM CYBER SEC/Pre Security/Windows Fundamentals/Windows Fundamental 3/Win Fun 3 Img",
+    "COURSES/CYBERSECURITY/THM CYBER SEC/Pre Security/Windows Fundamentals/Windows Fundamental 3/Windows Updates.md",
+    "COURSES/CYBERSECURITY/THM CYBER SEC/Pre Security/Windows Fundamentals/Windows Fundamental 3/Windows Security.md",
+    "COURSES/CYBERSECURITY/THM CYBER SEC/Pre Security/Windows Fundamentals/Windows Fundamental 3/Volume Shadow Copy Service.md",
+    "COURSES/CYBERSECURITY/THM CYBER SEC/Pre Security/Windows Fundamentals/Windows Fundamental 3/Virus & Threat protection.md",
+    "COURSES/CYBERSECURITY/THM CYBER SEC/Pre Security/Windows Fundamentals/Windows Fundamental 3/Introduction.md",
+    "COURSES/CYBERSECURITY/THM CYBER SEC/Pre Security/Windows Fundamentals/Windows Fundamental 3/Firewall & Network Protection.md",
+    "COURSES/CYBERSECURITY/THM CYBER SEC/Pre Security/Windows Fundamentals/Windows Fundamental 3/Device Security.md",
+    "COURSES/CYBERSECURITY/THM CYBER SEC/Pre Security/Windows Fundamentals/Windows Fundamental 3/BitLocker.md",
+    "COURSES/CYBERSECURITY/THM CYBER SEC/Pre Security/Windows Fundamentals/Windows Fundamental 3/App & Browser Control.md",
+    "COURSES/CYBERSECURITY/THM CYBER SEC/Pre Security/Introduction To Cyber Security/Search Skills/Search Skills Img",
+    "COURSES/CYBERSECURITY/THM CYBER SEC/Pre Security/Introduction To Cyber Security/Search Skills/Vulnerabilities and Exploits.md",
+    "COURSES/CYBERSECURITY/THM CYBER SEC/Pre Security/Introduction To Cyber Security/Search Skills/Technical Documentation.md",
+    "COURSES/CYBERSECURITY/THM CYBER SEC/Pre Security/Introduction To Cyber Security/Search Skills/Specialized Search Engines.md",
+    "COURSES/CYBERSECURITY/THM CYBER SEC/Pre Security/Introduction To Cyber Security/Search Skills/Social Media.md",
+    "COURSES/CYBERSECURITY/THM CYBER SEC/Pre Security/Introduction To Cyber Security/Search Skills/Search Engines.md",
+    "COURSES/CYBERSECURITY/THM CYBER SEC/Pre Security/Introduction To Cyber Security/Search Skills/Introduction.md",
+    "COURSES/CYBERSECURITY/THM CYBER SEC/Pre Security/Introduction To Cyber Security/Search Skills/Evaluation of Search Results.md",
+    "COURSES/CYBERSECURITY/THM CYBER SEC/Pre Security/Network Fundamentals/Network fundamentals Img and other files/20260102-0459-25.0766884.mp4",
+    "COURSES/CYBERSECURITY/Professor Messer/CompTIA N10-009 Network+/Section 1 Network Concepts/Section 1 img folder/1.3 img",
+    "COURSES/CYBERSECURITY/Professor Messer/CompTIA N10-009 Network+/Section 1 Network Concepts/Section 1 img folder/1.1 img",
+    "COURSES/CYBERSECURITY/Professor Messer/CompTIA N10-009 Network+/Section 1 Network Concepts/Section 1 img folder/1.2 img"
+  ]
+}

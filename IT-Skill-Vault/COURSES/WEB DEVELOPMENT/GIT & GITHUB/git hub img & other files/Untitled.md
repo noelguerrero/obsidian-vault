@@ -1,0 +1,5 @@
+Financial management in Information Systems (IS) is not just about managing money, It's also about making a smart decisions for a better future. I realized this after learning the importance of connecting our work to things like SDG 5: Gender Equality.  Learning this helps us understand how financial decisions in tech can either help or hurt people, especially when in comes to gender.
+
+I learned that there's a huge gap between gender in finance like it mentioned in the module, that 56% of unbanked adults worldwide are women. This isn't just a social problem, it's a missed opportunity for technology to make a positive impact. The gender-inclusive approach is not only means just having women in our team. It means actively making our financial decisions promote fairness.
+
+However, By integrating gender inclusivity into financial management is a crucial step for IS. It makes the work more meaningful and ensures that the technology is serves for everyone, and not just for a certain gender.
