@@ -33,11 +33,26 @@
 | `rm`    | Deletes a file or folder.                             | `rm <file>`                 | `rm notes.txt`             |
 | `grep`  | Searches for text in a file or command output.        | `grep <pattern> <file>`     | `grep "error" log.txt`     |
 | `cat`   | Displays the contents of a text file.                 | `cat <file>`                | `cat notes.txt`            |
+| `pwd`   | Display your current directory                        | `pwd`                       | `pwd`                      |
 
+**Additional Option Used in File directory**:
+- `-l` it display the file size, permission, ownership, date of creation, and more
 
 ****
+### Terminal Codes that i encounter
 `ls` - to show directory
-
 `sudo apt update` - check if there is an new package available.
 `sudo apt upgrade` - install the new package
+
+****
+### `man` Terminal Codes
+
+- `man man` - to display manual of the command line
+- `man cp` - To display the manual of `cp` commands
+Note: `cp` is a command use to copy a file and paste to another location.
+
+****
+### Option / or additional in syntax
+
+- `-l` it display the file size, permission, ownership, date of creation, and more
 

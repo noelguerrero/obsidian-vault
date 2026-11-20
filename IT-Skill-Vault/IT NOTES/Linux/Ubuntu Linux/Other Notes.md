@@ -20,3 +20,16 @@ Linux have **user-application configuration file** that configure the bahavior o
 Basic User level is enough to access the configuration file of the user applications, but the server-wide configuration file like `etc` and other requires superuser or root priviledges.
 
 ****
+### Distinction between Normal and Root User in Terminal
+
+Dollar Sign indicates that you have normal user privilege:
+```terminal
+noel@Thinkpad-X280:~$ 
+```
+
+Hashtag/Pound indicates that you have root user privilege:
+```terminal
+root@Thinkpad-X280:/home/noel# 
+```
+
+****
