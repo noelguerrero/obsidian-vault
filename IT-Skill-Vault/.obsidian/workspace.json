@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT NOTES/Linux/Ubuntu Linux/Other Notes.md",
+                "file": "COURSES/IT TECHNICIAN/CISCO OS BASICS/M2 Linux Overview/2.3 Linux Servers and Clients.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Other Notes"
+              "title": "2.3 Linux Servers and Clients"
+            }
+          },
+          {
+            "id": "2fcfbfa3465faa1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT NOTES/Linux/Ubuntu Linux/Tools/Nmap.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nmap"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,15 +186,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "c038e30f88b6f064",
+  "active": "2fcfbfa3465faa1c",
   "lastOpenFiles": [
-    "IT NOTES/Linux/Ubuntu Linux/Terminal Commands.md",
+    "COURSES/IT TECHNICIAN/CISCO OS BASICS/M2 Linux Overview/2.3 Linux Servers and Clients.md",
+    "IT NOTES/Linux/Ubuntu Linux/Tools/Nmap.md",
+    "IT NOTES/Linux/Ubuntu Linux/Terminal Commands",
+    "IT NOTES/Linux/Ubuntu Linux/Tools",
+    "IT NOTES/Linux/Ubuntu Linux/Terminal Commands/Terminal Commands.md",
+    "COURSES/IT TECHNICIAN/CISCO OS BASICS/M2 Linux Overview/M2 img/Pasted image 20261121180754.png",
+    "COURSES/IT TECHNICIAN/CISCO OS BASICS/M2 Linux Overview/M2 img/Pasted image 20261121171957.png",
+    "COURSES/IT TECHNICIAN/CISCO OS BASICS/M2 Linux Overview/2.2 Working in the Linux Shell.md",
+    "IT NOTES/Linux/Ubuntu Linux/Other Notes.md",
     "Thinkpad-x280/Ubuntu 24.04.5.1/Readme.md",
     "Untitled.md",
     "Thinkpad-x280/Ubuntu 24.04.5.1",
     "Thinkpad-x280",
-    "IT NOTES/Linux/Ubuntu Linux/Other Notes.md",
-    "COURSES/IT TECHNICIAN/CISCO OS BASICS/M2 Linux Overview/2.2 Working in the Linux Shell.md",
     "COURSES/IT TECHNICIAN/CISCO OS BASICS/M2 Linux Overview/M2 img/Pasted image 20261119202741.png",
     "IT NOTES/Linux/Ubuntu Linux/ubuntu-img-notes/Pasted image 20261119212342.png",
     "IT NOTES/Linux/Ubuntu Linux/ubuntu-img-notes/Pasted image 20261119212500.png",
@@ -197,8 +218,6 @@
     "IT NOTES/Linux",
     "COURSES/IT TECHNICIAN/CISCO OS BASICS/M2 Linux Overview",
     "COURSES/IT TECHNICIAN/CISCO OS BASICS/M1 Windows Operating System/m1 img/Pasted image 20261030211845.png",
-    "COURSES/IT TECHNICIAN/CISCO OS BASICS/M1 Windows Operating System/m1 img/Pasted image 20261030203557.png",
-    "COURSES/IT TECHNICIAN/CISCO OS BASICS/M1 Windows Operating System/m1 img/Pasted image 20261030200758.png",
     "COURSES/IT TECHNICIAN/CISCO OS BASICS/M1 Windows Operating System/1.3 Windows Configuration and Monitoring.md",
     "IT NOTES/Windows/File System Commands.md",
     "IT NOTES/Windows/Windows File Folder Notes.md",
@@ -213,11 +232,6 @@
     "COURSES/CYBERSECURITY/THM CYBER SEC/Pre Security/Windows Fundamentals/Windows Fundamental 3/Firewall & Network Protection.md",
     "COURSES/CYBERSECURITY/THM CYBER SEC/Pre Security/Windows Fundamentals/Windows Fundamental 3/Device Security.md",
     "COURSES/CYBERSECURITY/THM CYBER SEC/Pre Security/Windows Fundamentals/Windows Fundamental 3/BitLocker.md",
-    "COURSES/CYBERSECURITY/THM CYBER SEC/Pre Security/Windows Fundamentals/Windows Fundamental 3/App & Browser Control.md",
-    "COURSES/CYBERSECURITY/THM CYBER SEC/Pre Security/Introduction To Cyber Security/Search Skills/Search Skills Img",
-    "COURSES/CYBERSECURITY/THM CYBER SEC/Pre Security/Introduction To Cyber Security/Search Skills/Vulnerabilities and Exploits.md",
-    "COURSES/CYBERSECURITY/THM CYBER SEC/Pre Security/Introduction To Cyber Security/Search Skills/Technical Documentation.md",
-    "COURSES/CYBERSECURITY/THM CYBER SEC/Pre Security/Introduction To Cyber Security/Search Skills/Specialized Search Engines.md",
-    "COURSES/CYBERSECURITY/THM CYBER SEC/Pre Security/Network Fundamentals/Network fundamentals Img and other files/20260102-0459-25.0766884.mp4"
+    "COURSES/CYBERSECURITY/THM CYBER SEC/Pre Security/Windows Fundamentals/Windows Fundamental 3/App & Browser Control.md"
   ]
 }

@@ -37,12 +37,40 @@
 
 **Additional Option Used in File directory**:
 - `-l` it display the file size, permission, ownership, date of creation, and more
+- `-a` show all files
+- `>` - redirect, its use when you place or replace a text in a file
+- `>>` - append, its use when you add a text to specific file.
+- `-r` - recursive, it is paired with `rm` to delete a specific directory and everything inside of it.
 
+**Syntax that encountered in File directory**
+- `ls -l` - to see all the details of the file or folder
+- `ls -la` - to display all the files, including the hidden files.
+- `echo Hello World > text.txt` - it create a hello world text in the text.txt file.
+	- note: if the file is not exist, it automatically creates one.
+- `ls -l text.txt` - to show if a file is exist
+- `cat text.txt` - to display the contents if the specific file.
+- `echo Add another text >> text.txt` - to add a text to specific file.
+- `rm -r folder1` - it deletes the `folder1` and everything inside of it.
+- `mv text.txt cyops_folder1` - move a file to specific folder.
+- `mv textNameBefore.txt textNameAfter.txt` - rename a file.
+****
+### Navigating at the Directory
+- `cd` - back
+- `cd .` goes to the current directory.
+- `cd ..` goes back / goes to the parent directory
+- `cd [path]` - goes to the specific path, 
+	- ex: `cd ~/downloads/folder_1`
+- `cp` - use to copy and paste a specific file.
+	- syn: `cp [file] [path]`, ex: `cp text.txt folder1/` 
+- `rm` - use to delete a file or folder/directory
+	- syn: `rm [fileName]` ex: `rm text.txt`
 ****
 ### Terminal Codes that i encounter
-`ls` - to show directory
-`sudo apt update` - check if there is an new package available.
-`sudo apt upgrade` - install the new package
+- `ls` - to show directory
+- `sudo apt update` - check if there is an new package available.
+- `sudo apt upgrade` - install the new package
+- `echo [string/text] > [filename]` - to output/upload a text to a specific file.
+	- ex: `echo Hello World > text.txt`
 
 ****
 ### `man` Terminal Codes
@@ -50,9 +78,6 @@
 - `man man` - to display manual of the command line
 - `man cp` - To display the manual of `cp` commands
 Note: `cp` is a command use to copy a file and paste to another location.
+- `man ls` - manual for `ls` command
 
 ****
-### Option / or additional in syntax
-
-- `-l` it display the file size, permission, ownership, date of creation, and more
-
