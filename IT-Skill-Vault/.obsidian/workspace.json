@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COURSES/IT TECHNICIAN/CISCO OS BASICS/M2 Linux Overview/2.3 Linux Servers and Clients.md",
+                "file": "COURSES/IT TECHNICIAN/CISCO OS BASICS/M2 Linux Overview/M2 img/2.4 Basic Server Administration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.3 Linux Servers and Clients"
+              "title": "2.4 Basic Server Administration"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT NOTES/Linux/Ubuntu Linux/Tools/Nmap.md",
+                "file": "COURSES/NETWORKING/Network Commands On Windows.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nmap"
+              "title": "Network Commands On Windows"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "babc8d1b83e605c8",
@@ -186,13 +186,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "2fcfbfa3465faa1c",
+  "active": "c038e30f88b6f064",
   "lastOpenFiles": [
     "COURSES/IT TECHNICIAN/CISCO OS BASICS/M2 Linux Overview/2.3 Linux Servers and Clients.md",
+    "COURSES/IT TECHNICIAN/CISCO OS BASICS/M2 Linux Overview/M2 img/2.4 Basic Server Administration.md",
+    "COURSES/NETWORKING/Network Commands On Windows.md",
+    "IT NOTES/Windows/Net Commands.md",
+    "IT NOTES/Windows/Windows File Folder Notes.md",
+    "IT NOTES/Linux/Ubuntu Linux/Terminal Commands/Terminal Commands.md",
     "IT NOTES/Linux/Ubuntu Linux/Tools/Nmap.md",
     "IT NOTES/Linux/Ubuntu Linux/Terminal Commands",
     "IT NOTES/Linux/Ubuntu Linux/Tools",
-    "IT NOTES/Linux/Ubuntu Linux/Terminal Commands/Terminal Commands.md",
     "COURSES/IT TECHNICIAN/CISCO OS BASICS/M2 Linux Overview/M2 img/Pasted image 20261121180754.png",
     "COURSES/IT TECHNICIAN/CISCO OS BASICS/M2 Linux Overview/M2 img/Pasted image 20261121171957.png",
     "COURSES/IT TECHNICIAN/CISCO OS BASICS/M2 Linux Overview/2.2 Working in the Linux Shell.md",
@@ -220,8 +224,6 @@
     "COURSES/IT TECHNICIAN/CISCO OS BASICS/M1 Windows Operating System/m1 img/Pasted image 20261030211845.png",
     "COURSES/IT TECHNICIAN/CISCO OS BASICS/M1 Windows Operating System/1.3 Windows Configuration and Monitoring.md",
     "IT NOTES/Windows/File System Commands.md",
-    "IT NOTES/Windows/Windows File Folder Notes.md",
-    "IT NOTES/Windows/Net Commands.md",
     "COURSES/IT TECHNICIAN/CISCO OS BASICS/M1 Windows Operating System/1.2 Windows Architecture and Operations.md",
     "COURSES/CYBERSECURITY/THM CYBER SEC/Pre Security/Windows Fundamentals/Windows Fundamental 3/Win Fun 3 Img",
     "COURSES/CYBERSECURITY/THM CYBER SEC/Pre Security/Windows Fundamentals/Windows Fundamental 3/Windows Updates.md",
@@ -231,7 +233,6 @@
     "COURSES/CYBERSECURITY/THM CYBER SEC/Pre Security/Windows Fundamentals/Windows Fundamental 3/Introduction.md",
     "COURSES/CYBERSECURITY/THM CYBER SEC/Pre Security/Windows Fundamentals/Windows Fundamental 3/Firewall & Network Protection.md",
     "COURSES/CYBERSECURITY/THM CYBER SEC/Pre Security/Windows Fundamentals/Windows Fundamental 3/Device Security.md",
-    "COURSES/CYBERSECURITY/THM CYBER SEC/Pre Security/Windows Fundamentals/Windows Fundamental 3/BitLocker.md",
-    "COURSES/CYBERSECURITY/THM CYBER SEC/Pre Security/Windows Fundamentals/Windows Fundamental 3/App & Browser Control.md"
+    "COURSES/CYBERSECURITY/THM CYBER SEC/Pre Security/Windows Fundamentals/Windows Fundamental 3/BitLocker.md"
   ]
 }

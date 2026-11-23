@@ -81,3 +81,10 @@ Note: `cp` is a command use to copy a file and paste to another location.
 - `man ls` - manual for `ls` command
 
 ****
+### Servers
+
+- `sudo ps -elf` - display all running program running in the background
+Note: this code should run with admin privilige to see also the admin process
+
+- `sudo /usr/sbin/nginx`  - To run the nginx server.
+- `eJH` - display the current process tree after starting the nginx web server with elevated privilige.
